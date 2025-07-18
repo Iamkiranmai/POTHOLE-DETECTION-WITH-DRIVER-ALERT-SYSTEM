@@ -60,8 +60,7 @@ Edit
 └── README.md              # Project documentation
 How to Run
 Clone the repository:
-
-git clone https://github.com/yourusername/pothole-detection-alert.git
+gh repo clone deekshitha68/POTHOLE-DETECTION-WITH-DRIVER-ALERT-SYSTEM 
 cd pothole-detection-alert
 Install dependencies:
 pip install ultralytics opencv-python numpy
