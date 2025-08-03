@@ -7,6 +7,10 @@ This project implements a real-time pothole detection system using **YOLOv8 with
 It is aimed at improving road safety by helping drivers avoid potholes, thereby reducing the risk of accidents and vehicle damage.
 
 ---
+## Project Architecture
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/ec377129-237f-4558-844d-07276eb13b66" />
+
+
 
 ## Features
 
